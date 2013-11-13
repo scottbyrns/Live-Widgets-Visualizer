@@ -1,0 +1,24 @@
+{
+    "name": "Live Widgets Visualizer",
+    "description": "Utility to visualize live widget communications during run time.",
+    "groupId": "com.scottbyrns",
+    "artifactId": "LiveWidgetsVisualizer",
+    "version": "1.0.0-SNAPSHOT",
+    "url": "http://scottbyrns.com",
+    "scm": "http://github.com",
+    "issueTracking": "http://scottbyrns.atlassian.net",
+    "developers": [
+        {}
+    ],
+    "sources": [
+        "live-widgets-visualizer.js"
+    ],
+    "dependencies": [
+        {
+            "groupId": "com.scottbyrns",
+            "artifactId": "LiveWidgets",
+            "version": "1.0.1-SNAPSHOT"
+        }
+    ],
+    "configuration": {}
+}
